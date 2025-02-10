@@ -50,3 +50,7 @@ For a complete list of supported websites, check [yt-dlp Supported Sites](https:
 3. The script will then use `yt-dlp` to download the video from the provided URL.
 4. The downloaded video will be saved in the `C:\YoutubeDownloads` directory.
 
+## Troubleshooting
+- Permission issues: Make sure you're running the script as an Administrator.
+- Failed to download yt-dlp: If the download fails, check your internet connection and try again.
+- Invalid URL: If the URL is invalid or unsupported, the download will fail. Ensure the URL is from a supported site.
