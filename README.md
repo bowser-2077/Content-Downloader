@@ -4,7 +4,7 @@ A simple batch script that allows you to download videos from various websites u
 
 # LTS VERSION (Long term support)
 
-The V4 of content downloader is an LTS version, Im only going to support this version. Others is "Indev" or outdated version, support for them will be ignored.
+The V4 of content downloader is an LTS version, Im only going to support this version. Others are "Indev" or outdated versions, support for them will be ignored.
 
 ## Features
 
