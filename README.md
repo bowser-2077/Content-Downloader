@@ -33,7 +33,7 @@ For a complete list of supported websites, check [yt-dlp Supported Sites](https:
 
 - **Windows OS**
 - **Administrator privileges** for script execution
-- **Internet connection** for downloading `yt-dlp` and videos
+- **Internet connection** for downloading `yt-dlp`, `ffmpeg`, `ffprobe` and videos
 
 ## Installation
 
